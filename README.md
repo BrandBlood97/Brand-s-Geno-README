@@ -4,13 +4,13 @@
 
 ## Description
 
+This command-line application streamlines README.md creation by dynamically integrating user-provided repository details into structured sections. Easily generate professional READMEs by entering project specifics, including title, description, table of contents, installation, usage, contribution guidelines, and test instructions. Choose a license from a list, with a badge and clear notice added. Additionally, include your GitHub profile and email for community interaction.
 
 ## Table of Contents
 
 - [Usage](#usage)
 - [License](#license)
 - [Questions](#questions)
-
 
 ## Usage
 
